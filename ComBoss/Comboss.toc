@@ -1,0 +1,9 @@
+## Interface: 50400
+## Title: ComBoss
+## Notes: I really liked an addon from Ltakids, which is not working in MoP. Therefore I had to make some changes, resulting a somewhat more boosted Addon. Enjoy!
+## Version: 1.0.50400
+## Author: NandorMagyar
+## E-mail: nandormagyar.it@gmail.com
+## DefaultState: Enabled
+
+ComBoss.lua
